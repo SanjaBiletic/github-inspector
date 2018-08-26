@@ -1,0 +1,22 @@
+PODS:
+  - PureLayout (3.0.2)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+
+DEPENDENCIES:
+  - PureLayout
+  - Realm
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PureLayout
+    - Realm
+
+SPEC CHECKSUMS:
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+
+PODFILE CHECKSUM: 3770be355146179dc1f7e9dfc79d36147eba75d6
+
+COCOAPODS: 1.5.3
